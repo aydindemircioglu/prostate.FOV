@@ -1,0 +1,16 @@
+Model,Error,Std
+rotated_retinanet_r50_0.02,0.35,0.54
+roi_trans_r50_0.08,0.36,0.53
+roi_trans_r50_0.04,0.36,0.54
+redet_r50_0.08,0.36,0.53
+rotated_retinanet_r50_0.008,0.36,0.53
+roi_trans_r50_0.02,0.37,0.54
+redet_r50_0.04,0.37,0.56
+redet_r50_0.02,0.37,0.55
+rotated_retinanet_r50_0.004,0.37,0.55
+roi_trans_r50_0.004,0.38,0.55
+roi_trans_r50_0.008,0.38,0.55
+redet_r50_0.008,0.38,0.56
+redet_r50_0.004,0.39,0.62
+rotated_retinanet_r50_0.04,7.57,12.31
+rotated_retinanet_r50_0.08,13.29,12.78

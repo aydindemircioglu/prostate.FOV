@@ -1,0 +1,4 @@
+path,curFrame,Deleted,pixelSpacingX,pixelSpacingY,pixelSpacingZ,tra_UL_x,tra_UL_y,tra_LL_x,tra_LL_y,tra_LR_x,tra_LR_y,tra_UR_x,tra_UR_y,cor_UL_x,cor_UL_y,cor_LL_x,cor_LL_y,cor_LR_x,cor_LR_y,cor_UR_x,cor_UR_y,Dirty
+./data/train/PICAI/10753/,8,0,0.5625,0.5625,3.6,36,51,287,160,238,271,-12,162,153,27,255,71,152,309,50,264,True
+./data/train/PICAI/10753/,9,0,0.5625,0.5625,3.6,36,51,287,160,238,271,-12,162,149,27,251,71,148,309,46,264,True
+./data/train/PICAI/10753/,10,0,0.5625,0.5625,3.6,36,51,287,160,238,271,-12,162,149,27,251,71,148,309,46,264,True
